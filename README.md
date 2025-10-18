@@ -1,4 +1,4 @@
-<h1 align="center">Berk MARUF</h1>
+<h1 align="center">Welcome, I'm Berk MARUF</h1>
 <h3 align="center">Electrical&Electronics Engineer, Focused on System Design Engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=berkmaruf&label=Profile%20views&color=0e75b6&style=flat" alt="berkmaruf" /> </p>
