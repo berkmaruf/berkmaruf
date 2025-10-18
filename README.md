@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **pepper Motion**
 
-- 🌱 I’m currently learning **Embedded C, C++, Python, Advanced Algorithms**
+- 🌱 I’m currently learning **Embedded C, C++, Python and Advanced Algorithms**
 
 - 👨‍💻 All of my projects are available at [https://berkmaruf.com.tr/](https://berkmaruf.com.tr/)
 
